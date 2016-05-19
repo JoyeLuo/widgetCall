@@ -1,0 +1,823 @@
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+1)message received ------------------------command=testConnection;number=;callid=;domain=test55;userid=5542226763448320;type=test
+1)message received ------------------------command=getLogs;number=+12014845435;callid=;domain=test55;userid=5542226763448320;type=Bria
+1)message received ------------------------command=getLogs;number=+12014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+1)message received ------------------------command=startCall;number=+12014845435;callid=;domain=test55;userid=5542226763448320;type=Bria
+1)message received ------------------------command=startCall;number=+1-20-14845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+1)message received ------------------------command=getLogs;number=+1-20-14845435;callid=;domain=test55;userid=5542226763448320;type=Bria
+1)message received ------------------------command=getLogs;number=+1-20-14845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+1)message received ------------------------command=getLogs;number=+1-20-14845435;callid=;domain=test55;userid=5542226763448320;type=Bria
+1)message received ------------------------command=getLogs;number=+1-20-14845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+1)message received ------------------------command=startCall;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+1)message received ------------------------command=getLogs;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Bria
+1)message received ------------------------command=getLogs;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+1)message received ------------------------command=getLogs;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Bria
+1)message received ------------------------command=getLogs;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+1)message received ------------------------command=getLogs;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Bria
+1)message received ------------------------command=startCall;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+1)message received ------------------------command=getLogs;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+1)message received ------------------------command=getLogs;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Bria
+1)message received ------------------------command=getLogs;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+1)message received ------------------------command=startCall;number=+(120)2505593;callid=;domain=test55;userid=5542226763448320;type=Skype
+1)message received ------------------------command=startCall;number=+(120)%20250990;callid=;domain=test55;userid=5542226763448320;type=Skype
+1)message received ------------------------command=endCurrentCall;number=+(120)%20250990;callid=;domain=test55;userid=5542226763448320;type=Skype
+1)message received ------------------------command=startCall;number=+%201%205523455%2034;callid=;domain=test55;userid=5542226763448320;type=Skype
+1)message received ------------------------command=endCurrentCall;number=+%201%205523455%2034;callid=;domain=test55;userid=5542226763448320;type=Skype
+1)message received ------------------------command=startCall;number=+31-84-334444;callid=;domain=test55;userid=5542226763448320;type=Bria
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+1)message received ------------------------command=startCall;number=+(120)2505593;callid=;domain=test55;userid=5542226763448320;type=Skype
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+1)message received ------------------------command=startCall;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+1)message received ------------------------command=endCurrentCall;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+1)message received ------------------------command=startCall;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+1)message received ------------------------command=startCall;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+1)message received ------------------------command=startCall;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+1)message received ------------------------command=startCall;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+1)message received ------------------------command=startCall;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+1)message received ------------------------command=startCall;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+1)message received ------------------------command=endCurrentCall;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+1)message received ------------------------command=startCall;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+1)message received ------------------------command=startCall;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+1)message received ------------------------command=startCall;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+1)message received ------------------------command=startCall;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+1)message received ------------------------command=startCall;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+1)message received ------------------------command=startCall;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+1)message received ------------------------command=startCall;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+1)message received ------------------------command=endCurrentCall;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+1)message received ------------------------command=startCall;number=+(120)2505593;callid=;domain=test55;userid=5542226763448320;type=Skype
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+1)message received ------------------------command=startCall;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+1)message received ------------------------command=startCall;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+1)message received ------------------------command=startCall;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+1)message received ------------------------command=startCall;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+1)message received ------------------------command=startCall;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+1)message received ------------------------command=startCall;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+1)message received ------------------------command=startCall;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+1)message received ------------------------command=startCall;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+1)message received ------------------------command=startCall;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+1)message received ------------------------command=startCall;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+1)message received ------------------------command=startCall;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+1)message received ------------------------command=startCall;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+1)message received ------------------------command=startCall;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+1)message received ------------------------command=startCall;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+1)message received ------------------------command=startCall;number=3333;callid=;domain=test55;userid=5542226763448320;type=Skype
+1)message received ------------------------command=startCall;number=prakash_write;callid=;domain=test55;userid=5542226763448320;type=Skype
+1)message received ------------------------command=endCurrentCall;number=prakash_write;callid=;domain=test55;userid=5542226763448320;type=Skype
+1)message received ------------------------command=startCall;number=2233554401;callid=;domain=test55;userid=5542226763448320;type=Skype
+1)message received ------------------------command=endCurrentCall;number=2233554401;callid=;domain=test55;userid=5542226763448320;type=Skype
+1)message received ------------------------command=startCall;number=+(120)2505593;callid=;domain=test55;userid=5542226763448320;type=Skype
+1)message received ------------------------command=endCurrentCall;number=+(120)2505593;callid=;domain=test55;userid=5542226763448320;type=Skype
+1)message received ------------------------command=startCall;number=+(120)%20250990;callid=;domain=test55;userid=5542226763448320;type=Bria
+1)message received ------------------------command=endCurrentCall;number=+(120)%20250990;callid=;domain=test55;userid=5542226763448320;type=Bria
+1)message received ------------------------command=startCall;number=+%201%205523455%2034;callid=;domain=test55;userid=5542226763448320;type=Bria
+1)message received ------------------------command=endCurrentCall;number=+%201%205523455%2034;callid=;domain=test55;userid=5542226763448320;type=Bria
+1)message received ------------------------command=startCall;number=+31-84-334444;callid=;domain=test55;userid=5542226763448320;type=Bria
+1)message received ------------------------command=endCurrentCall;number=+31-84-334444;callid=;domain=test55;userid=5542226763448320;type=Bria
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+In main Address already in use: JVM_Bind
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+In main Address already in use: JVM_Bind
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+In main Address already in use: JVM_Bind
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+1)message received ------------------------command=startCall;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+1)message received ------------------------command=startCall;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+1)message received ------------------------command=startCall;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+1)message received ------------------------command=startCall;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+1)message received ------------------------command=startCall;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+1)message received ------------------------command=startCall;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+1)message received ------------------------command=startCall;number=+31-84-334444;callid=;domain=test55;userid=5542226763448320;type=Skype
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+1)message received ------------------------command=startCall;number=+31-84-334444;callid=;domain=test55;userid=5542226763448320;type=Skype
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+1)message received ------------------------command=startCall;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+1)message received ------------------------command=startCall;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+1)message received ------------------------command=startCall;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+1)message received ------------------------command=endCurrentCall;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+1)message received ------------------------command=startCall;number=+31-84-334444;callid=;domain=test55;userid=5542226763448320;type=Skype
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+1)message received ------------------------command=startCall;number=+31-84-334444;callid=;domain=test55;userid=5542226763448320;type=Skype
+1)message received ------------------------command=endCurrentCall;number=+31-84-334444;callid=;domain=test55;userid=5542226763448320;type=Skype
+1)message received ------------------------command=startCall;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Bria
+1)message received ------------------------command=endCurrentCall;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Bria
+1)message received ------------------------command=startCall;number=+(120)2505593;callid=;domain=test55;userid=5542226763448320;type=Skype
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+1)message received ------------------------command=testConnection;number=;callid=;domain=logicalware;userid=5115603855081472;type=test
+1)message received ------------------------command=testConnection;number=;callid=;domain=logicalware;userid=5115603855081472;type=test
+1)message received ------------------------command=testConnection;number=;callid=;domain=logicalware;userid=5115603855081472;type=test
+1)message received ------------------------command=startCall;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+1)message received ------------------------command=testConnection;number=;callid=;domain=logicalware;userid=5115603855081472;type=test
+1)message received ------------------------command=endCurrentCall;number=+1%2020%2014845435;callid=;domain=test55;userid=5542226763448320;type=Skype
+1)message received ------------------------command=startCall;number=+(120)2505593;callid=;domain=test55;userid=5542226763448320;type=Bria
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+1)message received ------------------------command=startCall;number=+(120)2505593;callid=;domain=test55;userid=5542226763448320;type=Skype
+1)message received ------------------------command=endCurrentCall;number=+(120)2505593;callid=;domain=test55;userid=5542226763448320;type=Skype
+1)message received ------------------------command=startCall;number=+31-84-334444;callid=;domain=test55;userid=5542226763448320;type=Skype
+1)message received ------------------------command=endCurrentCall;number=+31-84-334444;callid=;domain=test55;userid=5542226763448320;type=Skype
+1)message received ------------------------command=startCall;number=+(120)2505593;callid=;domain=test55;userid=5542226763448320;type=Skype
+1)message received ------------------------command=endCurrentCall;number=+(120)2505593;callid=;domain=test55;userid=5542226763448320;type=Skype
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+.......##$$$$$$$...........................
+Application initialised - path  D:\telephony\workspace\AgileWidgetCall
+not connected with agilecrm
+starting initialization Bria
+inside bria start
+bria is closed
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+1)message received ------------------------command=startCall;number=+18568331717;callid=;domain=repeatreturns;userid=4946027347443712;type=Skype
+starting initialization skype
+initialization skype
+Skype is installed --true
+Skype is running --false
+inside update status frame---------
+inside update status frame---------
+4) {"state":"closed","type":"call","userId":"4946027347443712","callType":"Skype"}added in queue to send..
+inside update status frame---------
+inside update status frame---------
+5) sending done for response is true and url -> {"state":"closed","type":"call","userId":"4946027347443712","callType":"Skype"}
+1)message received ------------------------command=startCall;number=+18568331717%20;callid=;domain=repeatreturns;userid=4946027347443712;type=Skype
+starting initialization Bria
+inside bria start
+inside update status frame---------
+inside update status frame---------
+2)In run command after messge received--> startCall  and call client is Bria
+4) {"state":"routing","callType":"Bria"}added in queue to send..
+5) sending done for response is true and url -> {"state":"routing","type":"call","userId":"4946027347443712","callType":"Bria"}
+active call -- +18568331717
+3)call connecting command send to send object from bria
+4) nulladded in queue to send..
+5) sending done for response is true and url -> {"callId":"39a67e7c1e4e4731be5186db1fb4e69c","number":"+18568331717","state":"connecting","type":"call","userId":"4946027347443712","callType":"Bria"}
+1)message received ------------------------command=notConfigured;number=;callid=;domain=repeatreturns;userid=4946027347443712;type=Bria
+active call -- +18568331717
+3)call failed command send to send object from bria
+4) {"callId":"39a67e7c1e4e4731be5186db1fb4e69c","number":"+18568331717","state":"failed","type":"call","userId":"4946027347443712","callType":"Bria"}added in queue to send..
+5) sending done for response is true and url -> {"callId":"39a67e7c1e4e4731be5186db1fb4e69c","number":"+18568331717","state":"failed","type":"call","userId":"4946027347443712","callType":"Bria"}
+3)call ended command send to send object from bria
+4) nulladded in queue to send..
+5) sending done for response is true and url -> {"callId":"","number":"+18568331717","state":"ended","type":"call","userId":"4946027347443712","callType":"Bria"}
+1)message received ------------------------command=notConfigured;number=;callid=;domain=repeatreturns;userid=4946027347443712;type=Bria
+1)message received ------------------------command=notConfigured;number=;callid=;domain=repeatreturns;userid=4946027347443712;type=Bria
+1)message received ------------------------command=notConfigured;number=;callid=;domain=repeatreturns;userid=4946027347443712;type=Bria
+1)message received ------------------------command=getLogs;number=+18568331717%20;callid=;domain=repeatreturns;userid=4946027347443712;type=Skype
+starting initialization Bria
+inside bria start
+inside update status frame---------
+inside update status frame---------
+2)In run command after messge received--> getLogs  and call client is Bria
+3)logs send to send object from bria
+4) nulladded in queue to send..
+5) sending done is true and url -> {"number":"+18568331717","data":[{"duration":"0","startTime":1462766863000,"direction":"Outgoing"}],"state":"logs","type":"call","userId":"4946027347443712","callType":"Bria"}
+1)message received ------------------------command=notConfigured;number=;callid=;domain=repeatreturns;userid=4946027347443712;type=Bria
+1)message received ------------------------command=testConnection;number=;callid=;domain=null;userid=5066549580791808;type=test
+1)message received ------------------------command=getLogs;number=+18568331717;callid=;domain=null;userid=5066549580791808;type=Bria
+2)In run command after messge received--> getLogs  and call client is Bria
+3)logs send to send object from bria
+4) {"number":"+18568331717","data":[{"duration":"0","startTime":1462766863000,"direction":"Outgoing"}],"state":"logs","type":"call","userId":"5066549580791808","callType":"Bria"}added in queue to send..
+5) sending done is true and url -> {"number":"+18568331717","data":[{"duration":"0","startTime":1462766863000,"direction":"Outgoing"}],"state":"logs","type":"call","userId":"5066549580791808","callType":"Bria"}
+1)message received ------------------------command=startCall;number=+18568331717;callid=;domain=null;userid=5066549580791808;type=Bria
+2)In run command after messge received--> startCall  and call client is Bria
+4) nulladded in queue to send..
+5) sending done for response is true and url -> {"state":"routing","type":"call","userId":"5066549580791808","callType":"Bria"}
+active call -- +18568331717
+active call -- +18568331717
+3)call connecting command send to send object from bria
+3)call connecting command send to send object from bria
+4) {"callId":"639cf261a991487a8fd77898562faa37","number":"+18568331717","state":"connecting","type":"call","userId":"5066549580791808","callType":"Bria"}added in queue to send..
+5) sending done for response is true and url -> {"callId":"639cf261a991487a8fd77898562faa37","number":"+18568331717","state":"connecting","type":"call","userId":"5066549580791808","callType":"Bria"}
+active call -- +18568331717
+3)call failed command send to send object from bria
+4) {"callId":"639cf261a991487a8fd77898562faa37","number":"+18568331717","state":"failed","type":"call","userId":"5066549580791808","callType":"Bria"}added in queue to send..
+active call -- +18568331717
+5) sending done for response is true and url -> {"callId":"639cf261a991487a8fd77898562faa37","number":"+18568331717","state":"failed","type":"call","userId":"5066549580791808","callType":"Bria"}
+3)call ended command send to send object from bria
+4) {"callId":"","number":"+18568331717","state":"ended","type":"call","userId":"5066549580791808","callType":"Bria"}added in queue to send..
+5) sending done for response is true and url -> {"callId":"","number":"+18568331717","state":"ended","type":"call","userId":"5066549580791808","callType":"Bria"}
+1)message received ------------------------command=getLastCallDetail;number=+18568331717;callid=;domain=null;userid=5066549580791808;type=Bria
+1)message received ------------------------command=startCall;number=+18568331717;callid=;domain=null;userid=5066549580791808;type=Bria
+2)In run command after messge received--> getLastCallDetail  and call client is Bria
+2)In run command after messge received--> startCall  and call client is Bria
+4) nulladded in queue to send..
+5) sending done for response is true and url -> {"state":"routing","type":"call","userId":"5066549580791808","callType":"Bria"}
+active call -- +18568331717
+3)call connecting command send to send object from bria
+4) {"callId":"aaac364feef34580bd1b32953c67c089","number":"+18568331717","state":"connecting","type":"call","userId":"5066549580791808","callType":"Bria"}added in queue to send..
+active call -- +18568331717
+5) sending done for response is true and url -> {"callId":"aaac364feef34580bd1b32953c67c089","number":"+18568331717","state":"connecting","type":"call","userId":"5066549580791808","callType":"Bria"}
+active call -- +18568331717
+3)call failed command send to send object from bria
+4) {"callId":"aaac364feef34580bd1b32953c67c089","number":"+18568331717","state":"failed","type":"call","userId":"5066549580791808","callType":"Bria"}added in queue to send..
+active call -- +18568331717
+5) sending done for response is true and url -> {"callId":"aaac364feef34580bd1b32953c67c089","number":"+18568331717","state":"failed","type":"call","userId":"5066549580791808","callType":"Bria"}
+3)call ended command send to send object from bria
+4) nulladded in queue to send..
+5) sending done for response is true and url -> {"callId":"","number":"+18568331717","state":"ended","type":"call","userId":"5066549580791808","callType":"Bria"}
+1)message received ------------------------command=getLastCallDetail;number=+18568331717;callid=;domain=null;userid=5066549580791808;type=Bria
+2)In run command after messge received--> getLastCallDetail  and call client is Bria
+3)last call details command send to send object from bria
+last contacted number for last contact detail+18568331717
++18568331717
+4) nulladded in queue to send..
+5) sending done is true and url -> {"duration":0,"callId":"","number":"+18568331717","displayName":"DisplayName","state":"lastCallDetail","type":"call","userId":"5066549580791808","callType":"Bria","direction":"outgoing"}
+1)message received ------------------------command=getLogs;number=+18568331717;callid=;domain=null;userid=5066549580791808;type=Bria
+2)In run command after messge received--> getLogs  and call client is Bria
+3)logs send to send object from bria
+4) {"number":"+18568331717","data":[{"duration":"0","startTime":1462767771000,"direction":"Outgoing"},{"duration":"0","startTime":1462767582000,"direction":"Outgoing"},{"duration":"0","startTime":1462766863000,"direction":"Outgoing"}],"state":"logs","type":"call","userId":"5066549580791808","callType":"Bria"}added in queue to send..
+5) sending done is true and url -> {"number":"+18568331717","data":[{"duration":"0","startTime":1462767771000,"direction":"Outgoing"},{"duration":"0","startTime":1462767582000,"direction":"Outgoing"},{"duration":"0","startTime":1462766863000,"direction":"Outgoing"}],"state":"logs","type":"call","userId":"5066549580791808","callType":"Bria"}
